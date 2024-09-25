@@ -12,9 +12,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Constants
-ACCOUNT_NUMBER = '1510022050'
-PASSWORD = '!3x@1X7r'
-SERVER = 'FTMO-Demo'
+ACCOUNT_NUMBER = ''
+PASSWORD = ''
+SERVER = ''
 TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 TELEGRAM_CHAT_ID = 'YOUR_TELEGRAM_CHAT_ID'
 MAX_RISK_PER_TRADE = 4000  # $4,000 max risk per trade
